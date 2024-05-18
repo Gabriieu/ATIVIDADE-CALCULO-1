@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eliel\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\CalculadoraVolume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5BC183-D21B-44CC-9FC6-E06FFA1BAAFC}|CalculadoraVolume\\Calculadora.csproj|c:\\users\\eliel\\onedrive - funda\u00E7\u00E3o salvador arena\\calculadoravolume\\calculadoravolume\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE5BC183-D21B-44CC-9FC6-E06FFA1BAAFC}|CalculadoraVolume\\Calculadora.csproj|solutionrelative:calculadoravolume\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE5BC183-D21B-44CC-9FC6-E06FFA1BAAFC}|CalculadoraVolume\\Calculadora.csproj|C:\\Users\\eliel\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\CalculadoraVolume\\calculadoravolume\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE5BC183-D21B-44CC-9FC6-E06FFA1BAAFC}|CalculadoraVolume\\Calculadora.csproj|solutionrelative:calculadoravolume\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eliel\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\CalculadoraVolume\\CalculadoraVolume\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraVolume\\Form1.cs",
+              "ToolTip": "C:\\Users\\eliel\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\CalculadoraVolume\\CalculadoraVolume\\Form1.cs",
+              "RelativeToolTip": "CalculadoraVolume\\Form1.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:02:00.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eliel\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\CalculadoraVolume\\CalculadoraVolume\\Form1.cs",
+              "RelativeDocumentMoniker": "CalculadoraVolume\\Form1.cs",
+              "ToolTip": "C:\\Users\\eliel\\OneDrive - Funda\u00E7\u00E3o Salvador Arena\\CalculadoraVolume\\CalculadoraVolume\\Form1.cs [Design]",
+              "RelativeToolTip": "CalculadoraVolume\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:01:52.753Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

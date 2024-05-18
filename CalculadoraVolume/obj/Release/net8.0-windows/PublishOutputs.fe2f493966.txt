@@ -1,0 +1,5 @@
+C:\Users\eliel\OneDrive - Fundação Salvador Arena\Calculadora.exe
+C:\Users\eliel\OneDrive - Fundação Salvador Arena\Calculadora.dll
+C:\Users\eliel\OneDrive - Fundação Salvador Arena\Calculadora.deps.json
+C:\Users\eliel\OneDrive - Fundação Salvador Arena\Calculadora.runtimeconfig.json
+C:\Users\eliel\OneDrive - Fundação Salvador Arena\Calculadora.pdb
