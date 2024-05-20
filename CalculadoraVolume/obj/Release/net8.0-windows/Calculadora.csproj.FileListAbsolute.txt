@@ -36,3 +36,4 @@ C:\Users\eliel\OneDrive - Fundação Salvador Arena\CalculadoraVolume\Calculador
 C:\Users\eliel\OneDrive - Fundação Salvador Arena\CalculadoraVolume\CalculadoraVolume\obj\Release\net8.0-windows\Calculadora.pdb
 C:\Users\eliel\OneDrive - Fundação Salvador Arena\CalculadoraVolume\CalculadoraVolume\obj\Release\net8.0-windows\Calculadora.genruntimeconfig.cache
 C:\Users\eliel\OneDrive - Fundação Salvador Arena\CalculadoraVolume\CalculadoraVolume\obj\Release\net8.0-windows\ref\Calculadora.dll
+C:\Users\eliel\OneDrive - Fundação Salvador Arena\CalculadoraVolume\CalculadoraVolume\obj\Release\net8.0-windows\Calculadora.sourcelink.json

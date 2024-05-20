@@ -26,7 +26,7 @@ namespace CalculadoraVolume
         {
             double altura = (double)inputUser.Value;
 
-            if (altura >= 0 && altura <= 7.8)
+            if (altura <= 7.8)
             {
                 cilindro1 = calcularVolumeCilindro(15.25, altura);
                 cone1 = 0;
@@ -34,7 +34,7 @@ namespace CalculadoraVolume
                 cone2 = 0;
                 cilindro3 = 0;
             }
-            else if (altura > 7.8 && altura <= 13.8)
+            else if (altura <= 13.8)
             {
                 double variacaoRaio = (50.2 - 15.25) / 6;
                 double alturaCone = altura - 7.8;
@@ -45,7 +45,7 @@ namespace CalculadoraVolume
                 cone2 = 0;
                 cilindro3 = 0;
             }
-            else if (altura > 13.8 && altura <= 118.3)
+            else if (altura <= 118.3)
             {
                 double alturaCilindro = altura - 13.8;
                 cilindro1 = calcularVolumeCilindro(15.25, 7.8);
@@ -54,7 +54,7 @@ namespace CalculadoraVolume
                 cone2 = 0;
                 cilindro3 = 0;
             }
-            else if (altura > 118.3 && altura <= 123.3)
+            else if (altura <= 123.3)
             {
                 double variacaoRaio = (50.2 - 21.25) / 5;
                 double alturaCone = altura - 118.3;
@@ -65,7 +65,7 @@ namespace CalculadoraVolume
                 cone2 = calcularVolumeConeTruncado(50.2, raioMenor, alturaCone);
                 cilindro3 = 0;
             }
-            else if (altura > 123.3)
+            else
             {
                 double alturaCilindro = altura - 123.3;
                 cilindro1 = calcularVolumeCilindro(15.25, 7.8);
